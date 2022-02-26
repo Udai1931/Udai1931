@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Udai Gupta</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Udai Gupta</h1>
 <h3 align="center">A passionate MERN Stack developer. I also like playing with data with some machine learning</h3>
 
 - 🌱 I’m currently learning everything 🤣
