@@ -1,12 +1,12 @@
 <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" height="230" width="100%">
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Udai Gupta</h1>
-<h3 align="center">A passionate MERN Stack developer. I also like playing with data with some machine learning</h3>
+<h3 align="center">A passionate Rails and MERN Stack developer. I also like playing with some data using machine learning techniques</h3>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning rails and ruby.
 
-- 💬 Ask me about **React Js MongoDB ML**
+- 💬 Ask me about **React Rails Mongodb Postgre JS**
 
-- 📫 How to reach me **udaigupta19311@gmail.com**
+- 📫 How to reach me **udaigupta19311@gmail.com** or [LinkedIn](https://linkedin.com/in/udai-gupta-003072192)
 
 - ⚡ Fun fact **Marvel fan**
 
