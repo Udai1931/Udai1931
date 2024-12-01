@@ -20,5 +20,8 @@
 
 <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Udai1931&theme=react&show_icons=true&hide=stars,issues" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Udai1931&theme=react&show_icons=true&hide=stars,issues" />
 
+
+
+![](https://komarev.com/ghpvc/?username=udai1931&color=orange)
